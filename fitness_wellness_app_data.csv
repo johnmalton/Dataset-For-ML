@@ -1,0 +1,221 @@
+Record ID,User ID,City,Gender,Age,Activity Type,Activity Date,Duration (min),Calories Burned,Subscription Plan,Device Used,Monthly Fee,Session Rating
+1,8363,Multan,Female,40,Swimming,21-01-2023,52.3,277.4,Free,iOS,0.0,4.6
+2,8658,Karachi,Female,25,Cycling,08-04-2023,147.4,1327.3,Basic,Web,500.0,4.2
+3,8827,Islamabad,Male,52,Walking,18-01-2023,160.6,1617.7,Premium,Web,1200.0,3.4
+4,4284,Islamabad,Male,30,Strength Training,11-03-2023,35.5,265.7,Premium,iOS,1200.0,3.8
+5,3742,Peshawar,Other,60,Strength Training,15-02-2023,107.9,557.7,Pro,iOS,2000.0,4.4
+6,8575,Peshawar,Male,45,Cycling,20-08-2023,89.7,767.8,Free,Android,0.0,4.3
+7,5461,Quetta,Other,49,Cycling,04-10-2023,133.0,1256.2,Premium,Web,1200.0,3.4
+8,3818,Islamabad,Other,35,Strength Training,27-09-2023,30.1,178.9,Basic,Android,500.0,3.0
+9,3786,Peshawar,Male,37,Yoga,05-03-2023,71.2,368.0,Free,iOS,0.0,4.1
+10,1771,,Male,42,Strength Training,14-12-2023,155.7,872.2,Pro,Android,2000.0,3.3
+11,1003,Lahore,Female,48,Cycling,29-07-2023,46.3,545.7,Free,Web,0.0,4.7
+12,6063,Karachi,Other,31,Walking,12-11-2023,100.7,752.8,Premium,Web,1200.0,3.4
+13,8979,Karachi,Other,54,Cycling,08-02-2023,59.0,532.0,Pro,iOS,2000.0,3.7
+14,8432,Islamabad,Male,46,Strength Training,24-09-2023,134.0,1133.1,Basic,Android,500.0,4.9
+15,8942,Peshawar,Female,23,Running,16-10-2023,36.1,403.2,Free,Android,0.0,3.4
+16,3184,Karachi,Female,27,Swimming,21-12-2023,111.0,481.9,Free,Android,0.0,4.3
+17,4098,Quetta,Male,21,Swimming,29-01-2023,72.3,749.4,Pro,Android,2000.0,3.0
+18,1656,Lahore,Male,27,Swimming,24-10-2023,91.6,437.3,Pro,Android,,3.3
+19,3786,Islamabad,Male,47,Walking,05-07-2023,149.3,1317.9,Basic,Android,500.0,4.9
+20,7373,Karachi,Female,62,Cycling,08-12-2023,127.8,1508.5,Basic,Android,500.0,4.0
+21,8220,Multan,Female,28,Walking,23-01-2023,99.2,490.4,Pro,Web,2000.0,3.7
+22,9454,Multan,Male,65,Strength Training,15-02-2023,56.3,617.0,Premium,Android,1200.0,3.2
+23,2956,Karachi,Female,47,Yoga,01-12-2023,91.3,977.1,Free,Web,0.0,4.0
+24,9751,Quetta,Male,20,Cycling,12-09-2023,18.2,162.1,Basic,Web,500.0,3.8
+25,5158,Islamabad,Female,50,Strength Training,29-03-2023,131.1,617.3,Premium,iOS,1200.0,3.8
+26,3981,Karachi,Other,60,Swimming,24-12-2023,14.1,99.9,Pro,Web,2000.0,3.3
+27,2058,Multan,Other,38,Yoga,04-12-2023,47.8,494.8,Free,Web,0.0,4.4
+28,8305,Multan,Male,52,Walking,18-05-2023,92.2,1091.8,Premium,Web,1200.0,4.5
+29,2464,Quetta,Other,16,Walking,24-06-2023,25.4,210.8,Basic,Android,500.0,4.4
+30,4379,Karachi,Male,18,Running,11-12-2023,135.8,1225.0,Free,iOS,0.0,4.8
+31,1145,Quetta,Female,46,Walking,29-11-2023,146.0,1231.0,Premium,iOS,1200.0,4.7
+32,9490,Karachi,Female,43,Yoga,19-09-2023,79.6,361.2,Basic,Web,,3.3
+33,4039,Multan,Female,20,Cycling,06-12-2023,179.6,1001.3,Basic,Android,,4.8
+34,6404,Peshawar,Other,28,Walking,10-07-2023,120.1,507.0,Free,Android,0.0,4.3
+35,2159,Islamabad,Male,53,Running,26-03-2023,159.1,847.2,Free,Android,,3.5
+36,9024,Peshawar,Female,22,Walking,05-10-2023,54.4,358.0,Basic,iOS,500.0,4.5
+37,3041,Lahore,Male,29,Cycling,24-04-2023,24.4,291.0,Free,Android,0.0,3.3
+38,4129,Multan,Male,64,Yoga,10-06-2023,158.8,685.1,Free,iOS,0.0,3.2
+39,4327,Multan,Male,50,Swimming,07-05-2023,59.4,666.7,Free,Android,0.0,4.8
+40,7438,Peshawar,Male,54,Walking,20-08-2023,13.4,135.3,Basic,Android,500.0,3.6
+41,3413,Multan,Other,22,Swimming,21-09-2023,81.3,694.5,Premium,Web,1200.0,4.4
+42,3440,Multan,Male,34,Walking,01-09-2023,15.3,62.1,Pro,Android,2000.0,4.5
+43,9894,Peshawar,Male,60,Yoga,17-10-2023,174.5,1103.0,Premium,iOS,1200.0,4.9
+44,1176,Islamabad,Female,50,Swimming,21-10-2023,110.5,561.7,Basic,iOS,,3.2
+45,5126,Quetta,Female,59,Yoga,17-02-2023,117.0,940.3,Premium,Web,1200.0,4.0
+46,6662,Quetta,Other,63,Cycling,19-07-2023,116.8,677.8,Basic,Android,500.0,3.5
+47,6716,Islamabad,Male,27,Cycling,26-09-2023,105.6,753.1,Basic,Android,500.0,4.4
+48,6049,Quetta,Female,30,Swimming,30-10-2023,46.3,290.9,Free,Web,0.0,4.7
+49,4789,Quetta,Male,18,Running,14-10-2023,88.5,406.7,Premium,Web,1200.0,4.7
+50,5455,Peshawar,Other,33,Yoga,30-08-2023,81.5,668.2,Basic,Web,500.0,4.3
+51,4247,Multan,Male,23,Strength Training,29-08-2023,73.1,869.1,Premium,iOS,1200.0,3.6
+52,6820,Quetta,Other,50,Walking,29-08-2023,125.8,1051.9,Premium,iOS,1200.0,4.1
+53,3029,Multan,Other,16,Running,14-09-2023,11.3,113.7,Premium,iOS,1200.0,3.4
+54,3375,Peshawar,Female,37,Cycling,16-10-2023,135.9,668.4,Basic,Web,500.0,3.9
+55,5683,Islamabad,Other,38,Cycling,13-02-2023,57.3,325.7,Pro,Web,2000.0,3.7
+56,1515,Multan,Female,31,Strength Training,31-12-2023,145.3,685.6,Basic,iOS,500.0,4.3
+57,8488,Quetta,Other,34,Cycling,13-04-2023,47.9,,Premium,iOS,1200.0,4.2
+58,5041,Multan,Male,36,Swimming,20-03-2023,37.2,425.1,Free,Android,,4.3
+59,5147,Peshawar,Other,43,Walking,19-02-2023,105.7,876.2,Basic,Android,500.0,4.5
+60,4372,Islamabad,Female,24,Yoga,31-01-2023,170.2,1047.8,Basic,Android,500.0,3.1
+61,5286,Multan,Male,61,Running,16-04-2023,39.1,310.9,Basic,Web,500.0,4.4
+62,7478,Peshawar,Female,24,Swimming,18-05-2023,97.9,567.8,Pro,Android,2000.0,3.5
+63,7052,Peshawar,Other,28,Walking,04-02-2023,172.2,1151.7,Pro,iOS,2000.0,4.4
+64,8151,Karachi,Male,45,Cycling,23-01-2023,134.8,954.5,Pro,Web,2000.0,4.1
+65,1154,Karachi,Male,55,Strength Training,09-04-2023,29.3,223.5,Premium,iOS,1200.0,3.1
+66,1550,Peshawar,Male,17,Yoga,15-05-2023,77.8,879.3,Pro,Web,2000.0,3.9
+67,4379,Islamabad,Female,23,Swimming,11-09-2023,21.3,,Free,Web,0.0,5.0
+68,4857,Islamabad,Other,19,Strength Training,03-05-2023,67.4,413.9,Free,Web,0.0,4.0
+69,1780,Multan,Female,55,Yoga,30-09-2023,44.2,437.4,Premium,iOS,1200.0,3.4
+70,1370,Quetta,Female,35,Yoga,02-06-2023,35.8,244.4,Pro,Android,2000.0,3.8
+71,8599,Multan,Other,36,Cycling,29-09-2023,168.4,1405.4,Free,Android,0.0,3.9
+72,1558,Quetta,Other,65,Walking,18-04-2023,97.4,1115.5,Pro,Android,2000.0,3.1
+73,9440,Karachi,Male,51,Strength Training,12-11-2023,158.0,1014.5,Free,iOS,0.0,4.1
+74,8399,Multan,Other,36,Walking,20-08-2023,114.2,644.2,Pro,Web,2000.0,3.0
+75,2816,Quetta,Male,40,Running,01-05-2023,75.7,424.0,Pro,Web,2000.0,3.7
+76,2795,Quetta,Other,60,Cycling,24-09-2023,137.4,1067.6,Pro,Web,2000.0,3.7
+77,1261,Quetta,Other,47,Strength Training,26-02-2023,176.2,1401.1,Basic,iOS,500.0,4.7
+78,4338,Lahore,Male,36,Yoga,09-05-2023,56.4,627.4,Pro,Web,2000.0,3.6
+79,2850,Multan,Female,46,Running,07-12-2023,57.9,465.4,Premium,Android,1200.0,3.9
+80,7497,Quetta,Male,55,Swimming,03-06-2023,84.8,711.7,Pro,Android,2000.0,5.0
+81,6855,Karachi,Other,18,Strength Training,03-09-2023,124.1,689.0,Pro,iOS,2000.0,3.7
+82,4934,Karachi,Other,32,Cycling,24-08-2023,80.8,884.3,Pro,iOS,2000.0,4.1
+83,5279,Multan,Male,30,Yoga,27-02-2023,45.8,452.3,Free,Android,0.0,4.8
+84,9096,Quetta,Female,49,Swimming,07-07-2023,172.2,1366.1,Premium,iOS,1200.0,3.5
+85,7412,Lahore,Female,48,Running,10-09-2023,116.5,1107.9,Premium,Android,1200.0,3.3
+86,8305,Multan,Female,41,Yoga,28-07-2023,127.2,1181.0,Pro,Android,2000.0,3.5
+87,3895,Quetta,Other,59,Cycling,05-01-2023,110.6,825.5,Free,Web,0.0,3.5
+88,5794,Islamabad,Male,23,Yoga,01-09-2023,134.7,793.4,Premium,Web,1200.0,4.0
+89,7755,Multan,Male,37,Yoga,28-12-2023,168.4,1918.0,Pro,Web,2000.0,4.6
+90,5601,Lahore,Female,52,Running,26-03-2023,80.9,689.9,Basic,Android,500.0,4.4
+91,7795,Quetta,Male,29,Strength Training,23-05-2023,99.0,701.6,Premium,iOS,1200.0,3.4
+92,5161,Quetta,Female,18,Cycling,08-03-2023,153.1,1795.0,Free,Android,0.0,3.1
+93,8136,Islamabad,Male,55,Running,21-08-2023,56.3,529.3,Pro,Android,,3.8
+94,5211,Lahore,Female,56,Cycling,17-05-2023,169.6,1514.5,Premium,iOS,1200.0,4.1
+95,2094,Quetta,Female,16,Swimming,23-08-2023,31.9,324.0,Basic,Web,500.0,3.8
+96,6656,Peshawar,Female,49,Yoga,21-06-2023,30.3,130.3,Pro,iOS,2000.0,4.0
+97,1338,Peshawar,Other,16,Yoga,24-01-2023,103.7,972.7,Premium,Web,1200.0,4.6
+98,1690,Multan,Male,48,Cycling,29-10-2023,81.6,718.4,Basic,Web,500.0,3.7
+99,2714,Karachi,Other,57,Yoga,17-04-2023,26.8,302.5,Basic,iOS,500.0,4.2
+100,3478,Lahore,Female,55,Strength Training,26-03-2023,105.4,1142.8,Basic,Web,500.0,4.1
+101,8691,Karachi,Male,63,Cycling,03-09-2023,153.1,1543.4,Premium,iOS,1200.0,4.4
+102,9693,Lahore,Male,43,Yoga,26-05-2023,74.2,406.3,Pro,iOS,,4.2
+103,7075,Multan,Male,40,Swimming,22-12-2023,60.2,476.2,Premium,iOS,1200.0,3.8
+104,9856,Islamabad,Male,40,Strength Training,30-04-2023,67.4,674.7,Pro,iOS,2000.0,4.3
+105,8341,Quetta,Male,24,Strength Training,12-12-2023,68.9,347.4,Premium,Android,1200.0,4.9
+106,3425,Islamabad,Female,50,Strength Training,04-08-2023,132.8,890.3,Pro,Android,,4.9
+107,8761,Quetta,Other,27,Cycling,28-08-2023,37.5,316.4,Premium,Android,1200.0,3.7
+108,7846,Peshawar,Male,29,Walking,17-11-2023,167.9,1811.0,Free,Web,0.0,3.5
+109,2232,Karachi,Female,48,Walking,01-08-2023,164.1,,Basic,Web,500.0,4.8
+110,4117,Multan,Other,55,Swimming,05-02-2023,164.4,1690.3,Premium,iOS,1200.0,3.9
+111,6275,Karachi,Other,48,Swimming,06-09-2023,145.0,1078.7,Pro,Android,2000.0,4.8
+112,8705,Islamabad,Male,60,Strength Training,01-09-2023,64.6,444.0,Premium,Android,,3.8
+113,2430,Lahore,Male,32,Yoga,10-03-2023,69.1,745.0,Basic,iOS,500.0,4.5
+114,8936,Peshawar,Male,29,Cycling,11-10-2023,117.6,705.5,Basic,iOS,500.0,3.4
+115,3978,Karachi,Other,38,Walking,30-12-2023,176.0,1796.6,Basic,iOS,,3.1
+116,3511,Lahore,Female,58,Walking,29-11-2023,136.1,1524.4,Pro,iOS,2000.0,4.1
+117,1077,Lahore,Male,30,Cycling,22-10-2023,88.0,426.7,Pro,Web,2000.0,4.3
+118,2639,Quetta,Female,27,Swimming,22-11-2023,132.5,1571.5,Basic,Web,500.0,4.6
+119,8710,Peshawar,Female,26,Running,10-10-2023,115.9,464.7,Premium,iOS,1200.0,4.9
+120,6011,Quetta,Other,61,Strength Training,18-11-2023,160.7,1028.2,Free,Web,0.0,4.6
+121,7789,Karachi,Other,33,Swimming,15-01-2023,170.4,1530.5,Free,Android,0.0,3.1
+122,6839,Islamabad,Other,42,Walking,07-07-2023,22.1,117.1,Premium,iOS,1200.0,4.5
+123,4935,Peshawar,Male,24,Swimming,09-06-2023,124.5,1257.8,Free,Web,0.0,4.4
+124,4495,Quetta,Male,28,Walking,01-09-2023,49.8,369.1,Pro,Android,2000.0,4.6
+125,9559,Multan,Other,39,Walking,05-12-2023,146.5,1151.1,Premium,Web,1200.0,3.2
+126,3808,Lahore,Female,34,Walking,17-06-2023,38.1,267.4,Free,Android,0.0,3.8
+127,6866,Multan,Other,25,Strength Training,19-10-2023,178.3,1942.1,Premium,iOS,1200.0,3.6
+128,8956,Multan,Male,31,Strength Training,21-03-2023,160.0,1174.2,Basic,Web,,3.8
+129,2313,Islamabad,Female,46,Running,05-01-2023,142.7,612.6,Free,iOS,0.0,4.5
+130,7179,Karachi,Male,27,Strength Training,22-05-2023,106.1,596.3,Premium,Web,1200.0,3.5
+131,4675,Karachi,Male,52,Yoga,13-07-2023,41.3,227.7,Free,iOS,0.0,3.8
+132,1785,Karachi,Other,46,Walking,25-01-2023,103.7,524.6,Pro,Web,,3.1
+133,8166,Islamabad,Other,60,Yoga,07-11-2023,130.9,1079.7,Pro,Android,2000.0,4.8
+134,6348,Peshawar,Male,28,Walking,26-03-2023,29.4,141.3,Free,iOS,0.0,3.2
+135,1484,Islamabad,Female,51,Walking,04-08-2023,83.9,962.9,Basic,Android,500.0,4.7
+136,3754,Quetta,Other,58,Strength Training,16-02-2023,116.6,718.6,Premium,Web,1200.0,3.8
+137,3870,Karachi,Other,56,Yoga,05-11-2023,171.6,777.0,Basic,Web,500.0,4.7
+138,2698,Quetta,Female,26,Yoga,17-06-2023,141.3,1580.8,Premium,Web,1200.0,4.7
+139,6107,Peshawar,Male,17,Running,05-12-2023,118.0,568.4,Free,Android,0.0,3.5
+140,9789,Quetta,Other,42,Yoga,12-10-2023,178.2,1636.6,Premium,Web,,3.9
+141,9689,Quetta,Male,27,Yoga,04-08-2023,43.4,200.6,Premium,iOS,1200.0,4.0
+142,1466,Peshawar,Other,26,Strength Training,10-10-2023,36.1,269.4,Free,Android,0.0,4.9
+143,2147,Peshawar,Other,52,Strength Training,15-01-2023,106.6,847.6,Pro,iOS,2000.0,3.9
+144,3388,Quetta,Female,28,Cycling,30-09-2023,99.6,894.5,Free,Android,0.0,4.6
+145,5931,Islamabad,Other,21,Yoga,26-01-2023,80.5,626.7,Basic,Web,500.0,4.3
+146,9546,Quetta,Female,47,Yoga,10-12-2023,112.4,768.1,Premium,Web,1200.0,3.5
+147,9903,Islamabad,Male,45,Walking,12-07-2023,160.7,1677.5,Free,Android,0.0,4.7
+148,2345,,Male,55,Yoga,29-05-2023,149.9,1073.2,Premium,iOS,1200.0,3.2
+149,8906,Karachi,Male,50,Running,01-11-2023,175.5,1019.9,Pro,Web,2000.0,4.4
+150,9999,Islamabad,Other,42,Yoga,25-10-2023,40.7,455.6,Free,iOS,0.0,4.1
+151,8645,Karachi,Other,48,Running,30-05-2023,52.1,376.0,Pro,Web,2000.0,4.9
+152,8015,Quetta,Other,63,Running,28-03-2023,141.6,1694.5,Free,Android,0.0,3.5
+153,2147,Quetta,Male,33,Yoga,11-10-2023,80.9,422.8,Basic,Web,,4.4
+154,4127,Peshawar,Other,60,Cycling,07-12-2023,83.5,391.8,Basic,Web,500.0,3.5
+155,5845,Karachi,Female,60,Swimming,08-09-2023,141.6,577.9,Basic,iOS,,3.3
+156,8108,Quetta,Male,36,Walking,13-08-2023,92.3,881.7,Pro,iOS,,3.2
+157,2332,Islamabad,Male,56,Yoga,11-12-2023,23.6,264.3,Premium,iOS,1200.0,3.8
+158,7389,Lahore,Female,16,Walking,22-01-2023,141.0,857.0,Free,Web,0.0,3.5
+159,7021,Islamabad,Other,24,Cycling,12-11-2023,120.0,488.2,Free,Web,0.0,4.2
+160,3878,Lahore,Female,28,Swimming,08-06-2023,36.0,149.6,Basic,Web,500.0,3.1
+161,7567,Islamabad,Female,40,Strength Training,27-01-2023,108.5,780.5,Basic,Web,500.0,4.0
+162,5781,Peshawar,Female,41,Walking,12-09-2023,60.2,506.6,Free,Web,0.0,4.6
+163,2300,Islamabad,Male,27,Running,19-03-2023,170.9,1497.4,Basic,Android,500.0,3.2
+164,6125,Quetta,Female,43,Cycling,12-03-2023,150.4,858.5,Basic,Android,,3.7
+165,1321,Multan,Female,45,Strength Training,16-10-2023,11.6,97.5,Free,iOS,0.0,5.0
+166,3270,Multan,Female,43,Running,16-03-2023,145.3,596.8,Premium,Android,1200.0,3.7
+167,7564,Lahore,Male,31,Strength Training,12-06-2023,117.0,729.2,Basic,Android,500.0,3.4
+168,6459,Islamabad,Female,61,Cycling,05-07-2023,124.1,978.9,Pro,iOS,2000.0,3.7
+169,2932,Peshawar,Male,18,Strength Training,11-06-2023,101.8,1156.7,Pro,Web,2000.0,3.1
+170,5704,Lahore,Male,29,Cycling,22-05-2023,89.1,972.0,Free,Web,0.0,4.1
+171,5086,Multan,Female,18,Cycling,23-06-2023,54.1,386.2,Free,iOS,0.0,3.4
+172,3547,Multan,Male,25,Running,10-06-2023,122.0,1090.4,Basic,Web,500.0,3.6
+173,2053,Islamabad,Female,58,Swimming,05-06-2023,15.1,71.3,Premium,iOS,1200.0,3.3
+174,9769,Islamabad,Other,53,Swimming,20-10-2023,165.2,859.6,Premium,Web,1200.0,4.3
+175,3467,Quetta,Other,49,Swimming,09-07-2023,74.1,824.4,Free,Web,0.0,3.7
+176,7791,Multan,Other,36,Walking,22-08-2023,130.2,905.6,Free,Web,0.0,3.1
+177,2258,Islamabad,Male,64,Cycling,17-04-2023,127.3,554.7,Pro,Android,2000.0,3.7
+178,8618,Quetta,Female,47,Running,05-03-2023,167.5,1357.8,Basic,Web,500.0,4.4
+179,6141,Quetta,Male,47,Cycling,05-11-2023,14.2,106.7,Pro,Web,2000.0,4.0
+180,9855,Islamabad,Male,48,Yoga,02-12-2023,129.4,681.5,Free,Web,0.0,3.5
+181,4279,Quetta,Female,43,Strength Training,03-02-2023,24.9,150.2,Free,Web,0.0,4.0
+182,3157,Lahore,Female,36,Cycling,05-10-2023,67.6,748.1,Free,Android,0.0,4.4
+183,3778,Karachi,Other,43,Walking,05-12-2023,113.7,984.5,Premium,Android,1200.0,4.1
+184,6729,Multan,Other,42,Yoga,12-12-2023,124.8,587.8,Basic,Web,500.0,4.7
+185,4487,Karachi,Female,33,Walking,22-07-2023,128.4,777.7,Premium,Web,1200.0,4.6
+186,7545,Karachi,Other,25,Walking,29-08-2023,153.1,952.4,Free,iOS,0.0,3.6
+187,5230,Peshawar,Male,49,Walking,28-03-2023,129.1,1505.2,Pro,Web,2000.0,3.5
+188,1070,Multan,Other,57,Swimming,03-09-2023,153.3,1322.7,Premium,Web,1200.0,4.7
+189,2102,Peshawar,Female,63,Strength Training,27-01-2023,178.0,983.1,Pro,iOS,,4.7
+190,9991,Lahore,Other,53,Cycling,22-04-2023,179.3,901.0,Free,Web,0.0,3.9
+191,3922,Quetta,Male,43,Swimming,02-08-2023,54.7,587.1,Pro,iOS,2000.0,3.5
+192,6570,Multan,Other,51,Strength Training,30-01-2023,27.4,222.0,Basic,Web,500.0,4.2
+193,3863,Karachi,Male,53,Cycling,08-09-2023,156.8,1259.1,Free,Android,0.0,4.1
+194,2791,Quetta,Male,29,Strength Training,26-03-2023,112.5,749.9,Premium,iOS,,4.6
+195,4780,Quetta,Male,48,Cycling,25-12-2023,87.6,1000.8,Basic,iOS,500.0,3.6
+196,1562,Peshawar,Male,48,Swimming,08-03-2023,120.7,841.9,Basic,iOS,500.0,4.2
+197,7419,Multan,Other,49,Swimming,06-11-2023,178.3,1436.0,Pro,iOS,2000.0,4.9
+198,7706,Lahore,Female,26,Cycling,22-07-2023,66.2,753.5,Free,Android,0.0,4.5
+199,9434,Karachi,Male,55,Swimming,22-10-2023,55.7,288.8,Premium,Android,1200.0,5.0
+200,5465,Multan,Other,34,Cycling,01-09-2023,161.2,1021.5,Free,Android,0.0,3.5
+201,2215,Multan,Male,58,Swimming,05-10-2023,95.1,809.5,Free,Android,0.0,3.0
+202,6647,Karachi,Female,40,Walking,23-09-2023,11.8,72.4,Pro,Android,2000.0,3.9
+203,1879,Lahore,Male,36,Yoga,19-04-2023,33.6,199.4,Basic,iOS,500.0,3.0
+204,8783,Lahore,Male,36,Walking,29-08-2023,143.0,1616.3,Free,Android,0.0,4.4
+205,9466,Karachi,Other,63,Strength Training,19-07-2023,50.8,430.1,Premium,iOS,,4.5
+206,7640,Multan,Other,16,Strength Training,15-09-2023,177.5,1571.5,Basic,Android,500.0,4.2
+207,8568,Islamabad,Other,19,Strength Training,30-08-2023,101.1,455.1,Pro,Android,2000.0,3.1
+208,9952,Islamabad,Male,18,Walking,13-03-2023,34.7,157.3,Pro,Web,2000.0,4.8
+209,8212,Lahore,Other,46,Walking,16-05-2023,69.1,643.3,Free,iOS,0.0,3.8
+210,4148,Lahore,Other,54,Cycling,02-04-2023,76.7,806.7,Pro,iOS,2000.0,3.1
+211,4328,,Female,65,Swimming,13-10-2023,127.7,1239.6,Basic,Android,500.0,4.9
+212,9502,Multan,Female,62,Yoga,07-11-2023,16.7,125.3,Premium,Web,1200.0,3.1
+213,5639,Karachi,Other,20,Yoga,03-03-2023,24.4,164.8,Pro,Android,2000.0,4.4
+214,3026,Peshawar,Female,30,Running,03-11-2023,101.8,563.9,Free,Web,0.0,3.0
+215,4977,Karachi,Female,31,Strength Training,14-05-2023,115.9,546.8,Free,Web,0.0,3.6
+216,7589,Karachi,Male,59,Walking,11-08-2023,131.9,1371.0,Free,Android,0.0,4.3
+217,3386,Multan,Female,58,Strength Training,15-05-2023,127.5,880.7,Premium,Web,1200.0,4.2
+218,2657,Multan,Male,23,Cycling,17-10-2023,106.8,685.1,Pro,iOS,,4.8
+219,5695,Multan,Other,65,Swimming,02-03-2023,69.1,803.7,Pro,Android,2000.0,4.6
+220,9574,Karachi,Male,19,Strength Training,11-10-2023,152.9,1277.3,Premium,iOS,1200.0,3.5
